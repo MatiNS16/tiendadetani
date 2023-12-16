@@ -83,3 +83,8 @@ footer {
   margin-top: 30px;
   padding: 5px;
 }
+
+.titulo {
+  background-color: black;
+  color: white;
+}
